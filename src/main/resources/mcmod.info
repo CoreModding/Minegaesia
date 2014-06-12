@@ -1,0 +1,16 @@
+[
+{
+  "modid": "core_minegaesia",
+  "name": "The Minegaesia Mod",
+  "description": "Alageasia in Minecraft!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MushroomLT"],
+  "credits": "CoreModding team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
